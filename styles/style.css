@@ -105,3 +105,20 @@ footer>section {
 .font-large{
     font-size: xx-large;
 }
+
+.size-icon {
+    font-size: 50px;
+    margin: 5px;
+}
+
+.margin-list {
+    margin-top: 10px;
+}
+
+.ul-container {
+    width: 25%;
+}
+
+.d-flex {
+    display:flex;
+}
