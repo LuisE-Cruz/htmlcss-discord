@@ -16,7 +16,7 @@
     background-color: rgb(37, 92, 232);
 }
 
-.container-middle {
+.container-nav  {
     display: flex;
     width: 75%;
     height: 65%;
@@ -157,4 +157,12 @@ footer>section {
 
 .height-middle {
     height: 500px;
+}
+
+.container-middle {
+    width: 60%;
+    height: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
