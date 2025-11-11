@@ -122,3 +122,39 @@ footer>section {
 .d-flex {
     display:flex;
 }
+
+.container-jumbotron {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(../img/jumbo.png);
+    width: 100%;
+    height: 470px;
+    background-size: cover;
+}
+
+.jumbotron {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 60%;
+    height: 60%;
+    text-align: center;
+    flex-direction: column;
+}
+
+.button-flex{
+    height: 50%;
+    justify-content: space-evenly;
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+
+.font-size {
+    font-size: xx-large;
+}
+
+.height-middle {
+    height: 500px;
+}
